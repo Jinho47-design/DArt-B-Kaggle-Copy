@@ -1,2 +1,2 @@
-# DArt-B-Kaggle-Copy
+# DArt-B_Kaggle-Copy
 Kaggle 필사 스터디
